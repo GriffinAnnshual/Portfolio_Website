@@ -1,0 +1,13 @@
+npm create vite@latest ./ -- --template react   --> to create a new empty react app.	
+
+
+
+
+
+
+
+
+PS C:\Users \Adrian \Desktop \3d_portfolio> npm install -legacy-peer-deps @react-three/fiber
+@react-three/drei maath react-tilt react-vertical -timeline- component @emailjs/browser fra
+mer-motion react-router- 
+dom
