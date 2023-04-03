@@ -19,30 +19,27 @@ const Contact = () => {
 
   const handleChange = (e) => {
     const { target } = e;
-    const { name, value } = target;
+    const { name, value } = e.target;
 
     setForm({
       ...form,
       [name]: value,
     });
   };
-
+  
+   
   const handleSubmit = (e) => {
     e.preventDefault();
     setLoading(true);
-
-    emailjs
-      .send(
-        import.meta.env.VITE_APP_EMAILJS_SERVICE_ID,
-        import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID,
+    emailjs.send('service_3be3d58','template_5ji6usl',
         {
           from_name: form.name,
-          to_name: "JavaScript Mastery",
+          to_name: "Griffin Annshual",
           from_email: form.email,
-          to_email: "sujata@jsmastery.pro",
+          to_email: "griffintbr@gmail.com",
           message: form.message,
         },
-        import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
+        'TjlM_eIgaNO94FtWz'
       )
       .then(
         () => {
@@ -127,7 +124,7 @@ const Contact = () => {
         variants={slideIn("right", "tween", 0.2, 1)}
         className='xl:flex-1 xl:h-auto md:h-[550px] h-[350px]'
       >
-        <EarthCa  nvas />
+        <EarthCanvas />
       </motion.div>
     </div>
   );
