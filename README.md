@@ -15,18 +15,21 @@
 ## About Section:
 
 
+![image](https://user-images.githubusercontent.com/77448860/232145482-c697b254-d9c0-4566-b6dd-1b743ca22adf.png)
+
 
 ## Word Experience Section:
 
 
 
+
+
 ## Project Section:
 
-![Uploading image.png…]()
+
 
 
 ## Contact Me:
 
 
-![Uploading image.png…]()
 
