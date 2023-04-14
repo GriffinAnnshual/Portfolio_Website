@@ -38,7 +38,7 @@
 
 
 
-Thank you.
-Make sure you star this repository.
+## Thank you.
+## Make sure you star this repository.
 
 
