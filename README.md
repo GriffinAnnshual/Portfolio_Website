@@ -27,7 +27,7 @@
 
 ## Project Section:
 
-![image](https://user-images.githubusercontent.com/77448860/232152127-08227429-64fa-4925-8812-24af7b77e2d8.png)
+![image](https://user-images.githubusercontent.com/77448860/232152382-7bf2ef20-4d0a-477f-9e15-6bdf9e6314ab.png)
 
 
 
