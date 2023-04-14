@@ -20,6 +20,7 @@
 
 ## Word Experience Section:
 
+![image](https://user-images.githubusercontent.com/77448860/232146547-ba29db59-3a71-4b3f-8607-0989290fffca.png)
 
 
 
@@ -30,6 +31,7 @@
 
 
 ## Contact Me:
+
 
 
 
