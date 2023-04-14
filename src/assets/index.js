@@ -37,6 +37,7 @@ import python from "./tech/python.png";
 import sql from "./tech/sql.png"; 
 import prog1 from "./prog1.png";
 import prog2 from "./prog2.png";
+import prog3 from "./prog3.png";
 
 export {
   logo,
@@ -75,4 +76,5 @@ export {
   sql,
   prog1,
   prog2,
+  prog3,
 };
