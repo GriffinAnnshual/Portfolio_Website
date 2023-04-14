@@ -204,6 +204,30 @@ import {
   
   const projects = [
     {
+      name: "Thirukkural GPT - AI Chat bot",
+      description: "Thirukkural GPT is an AI chat bot with a Wonderful UI that uses GPT-3.5 to generate answers to real-life problems and doubts form the ancient Tamil Wisdom novel Thirukkural. It is designed to help people find answers to their day-to-day problems in a simple and easy way.",
+      tags: [
+        {
+          name: "Javascript",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "API",
+          color: "green-text-gradient",
+        },
+        {
+          name: "NodeJ",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "CSS",
+          color: "green-text-gradient",
+        },
+      ],
+      image: prog3,
+      source_code_link: "https://github.com/GriffinAnnshual/ThirukkuralGPT-webapp",
+    },
+    {
       name: "Face Recognition Attendance Management System",
       description:
         "The Face Recognition Attendance Management System uses machine learning to detect and recognize faces, streamlining attendance management processes, reducing errors, and eliminating manual record-keeping for organizations of all sizes.",
@@ -244,30 +268,7 @@ import {
       image: prog2,
       source_code_link: "https://github.com/GriffinAnnshual/Criminal-Face-Identification-System",
     },
-    {
-      name: "Thirukkural GPT - AI Chat bot",
-      description: "Thirukkural GPT is an AI chat bot with a Wonderful UI that uses GPT-3.5 to generate answers to real-life problems and doubts form the ancient Tamil Wisdom novel Thirukkural. It is designed to help people find answers to their day-to-day problems in a simple and easy way.",
-      tags: [
-        {
-          name: "Javascript",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "API",
-          color: "green-text-gradient",
-        },
-        {
-          name: "NodeJ",
-          color: "pink-text-gradient",
-        },
-        {
-          name: "CSS",
-          color: "green-text-gradient",
-        },
-      ],
-      image: prog3,
-      source_code_link: "https://github.com/GriffinAnnshual/ThirukkuralGPT-webapp",
-    },
+   
 /*    {
       name: "Trip Guide",
       description:
