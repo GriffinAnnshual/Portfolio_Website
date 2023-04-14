@@ -30,7 +30,7 @@ import {
     sql,
     boot,
     prog1,
-    prog2,
+    prog4,
     prog3,
   } from "../assets";
 
@@ -265,7 +265,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: prog2,
+      image: prog4,
       source_code_link: "https://github.com/GriffinAnnshual/Criminal-Face-Identification-System",
     },
    
