@@ -75,6 +75,6 @@ export {
   python,
   sql,
   prog1,
-  prog4,
-  prog3
+  prog3,
+  prog4
 };
