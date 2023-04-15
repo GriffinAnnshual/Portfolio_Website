@@ -31,7 +31,7 @@ import {
     boot,
     prog1,
     prog4,
-    prog3,
+
   } from "../assets";
 
   
@@ -224,7 +224,7 @@ import {
           color: "green-text-gradient",
         },
       ],
-      image: prog3,
+      image: prog1,
       source_code_link: "https://github.com/GriffinAnnshual/ThirukkuralGPT-webapp",
     },
     {

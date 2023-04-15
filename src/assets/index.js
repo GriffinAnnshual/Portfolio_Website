@@ -36,7 +36,6 @@ import boot from "./tech/boot.png";
 import python from "./tech/python.png";
 import sql from "./tech/sql.png"; 
 import prog1 from "./prog1.png";
-import prog3 from "./prog3.png";
 import prog4 from "./prog4.png";
 
 export {
@@ -75,6 +74,5 @@ export {
   python,
   sql,
   prog1,
-  prog3,
   prog4
 };
