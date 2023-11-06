@@ -1,5 +1,5 @@
 # Portfolio_Website:
-### This is a dream portfolio website that I have made for myself - with the help of  @adrianhajdin https://github.com/adrianhajdin who have explained every thing very clearly.
+### This is a dream portfolio website that I have made for myself.
 
 ### Learning on making of this project:
 * 3D Library Three Js
